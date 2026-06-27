@@ -1,0 +1,21 @@
+ID,Name,Age,Salary,Gender,Department,Experience
+1,John Doe,25,50000,Male,IT,2
+2,Jane Smith,30,60000,Female,HR,5
+3,Robert Brown,,55000,Male,Finance,3
+4,Emily Davis,28,,Female,IT,4
+5,Michael Johnson,35,70000,,Marketing,8
+6,Sarah Wilson,29,62000,Female,,6
+7,David Lee,40,80000,Male,Finance,
+8,Chris Evans,,72000,Male,IT,10
+9,Anna Taylor,27,,Female,HR,3
+10,James Anderson,33,67000,Male,Marketing,7
+11,John Doe,25,50000,Male,IT,2
+12,,31,58000,Female,Finance,5
+13,Laura Martinez,26,54000,Female,HR,
+14,Daniel White,38,,Male,IT,9
+15,Emma Thomas,,61000,Female,Marketing,6
+16,Olivia Harris,24,48000,Female,,2
+17,Noah Martin,36,75000,Male,Finance,8
+18,Liam Thompson,29,,Male,HR,4
+19,Ava Garcia,32,69000,Female,IT,
+20,William Clark,,71000,Male,Marketing,9
